@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusinnesCard</string>
+    <string name="label_businnes_cards">Cartões de Visita</string>
+    <string name="nome">nome</string>
+    <string name="label_nome">nome</string>
+    <string name="label_confirmar">confirmar</string>
+    <string name="label_share">share</string>
+
+</resources>
